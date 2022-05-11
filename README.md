@@ -77,7 +77,7 @@ const badri = {
 <br/>
 
 
-### Feel Free to Contact me.....
+### Let's Connect :coffee:
 
 <p align="center">
 	<a href="https://www.linkedin.com/in/taha-abdelwahab-18b4621bb/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
