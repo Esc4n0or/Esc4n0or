@@ -51,6 +51,12 @@ const badri = {
       </a>
       <br>PHP
     </td>
+    <td align="center" width="96">
+      <a>
+        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/bash.svg" width="40"/>
+      </a>
+      <br>Bash
+    </td>
   </tr>
 </table>
 
