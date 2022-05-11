@@ -20,10 +20,11 @@
 const badri = {
   pronouns: "He" | "Him",
   code: ["Javascript", "Python", "HTML", "CSS", "PHP", "MYSQL", "Laravel"],
-  askMeAbout: ["Web security", "PHP", "python", "Laravel"],
+  askMeAbout: ["Web security", "Network Security", "CTFs", "MOOCs"],
   technologies: {
       Security: ["Web", "Network"],
       backend: ["PHP", "JS", "Laravel"],
+      Database: ["MYSQL"]
   }
 }
 ```
