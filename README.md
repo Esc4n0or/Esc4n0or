@@ -73,21 +73,21 @@ const badri = {
   </tr>
 </table>
 
-**Markup & Stylesheet**
+**Hacking Tools**
 
 <table>
   <tr>
     <td align="center" width="96">
       <a>
-        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/html.svg" width="40"/>
+        <img src="https://cdn.icon-icons.com/icons2/1735/PNG/512/burpsuite_113238.png" width="40"/>
       </a>
-      <br>HTML
+      <br>Burpsuite
     </td>
     <td align="center" width="96">
       <a>
-        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/css.svg" width="40"/>
+        <img src="https://cdn.icon-icons.com/icons2/1159/PNG/256/linux_81610.png" width="40"/>
       </a>
-      <br>CSS
+      <br>Linux
   </td>	
   </tr>
 </table>
