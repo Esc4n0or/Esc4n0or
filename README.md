@@ -2,6 +2,10 @@
 <p align="center">
   <h1 align="center">Welcome to <a href="https://github.com/Esc4n0or">Taha AbdElwahab</a>'s Profile 👋</h1>
 </p>
+<p>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Data+Scientist;I'm+a+Computer+Science+engineer" /></a>
+</p>
+
 <p>I am a Penetration tester, back-end developer, I also like to create automation scripts with Python.</p>
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
 <ul>
