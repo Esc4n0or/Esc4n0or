@@ -60,7 +60,7 @@ const badri = {
   <tr>
     <td align="center" width="96">
       <a>
-        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/laravel.svg" width="40"/>
+        <img src="https://github.com/laravel/art/blob/master/laravel-logo.png" width="40"/>
       </a>
       <br>Laravel
     </td>
