@@ -4,6 +4,7 @@
 </p>
 <p>I am a Penetration tester, back-end developer, I also like to create automation scripts with Python.</p>
 <img align="right" src="https://tenor.com/balJH.gif">
+<div class="tenor-gif-embed" data-postid="14820823" data-share-method="host" data-aspect-ratio="1.80791" data-width="100%"><a href="https://tenor.com/view/escanor-the-one-nanatsu-no-taizai-anime-gif-14820823">Escanor The One GIF</a>from <a href="https://tenor.com/search/escanor-gifs">Escanor GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 <ul>
   <li>👋 Hi, I’m @Esc4n0or</li>
   <li>❤️ I love Hacknig(testing) websites and Programming in PHP and Python.</li>
