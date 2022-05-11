@@ -3,7 +3,7 @@
   <h1 align="center">Welcome to <a href="https://github.com/Esc4n0or">Taha AbdElwahab</a>'s Profile 👋</h1>
 </p>
 <p align="center">
-  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Front+end+developer;I'm+a+competitive+programmer;I'm+a+Flask+developer" /></a>
+  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Penetration+Tester;I'm+a+Passionate+Passionate+about+information +security;I'm+a+PHP+developer" /></a>
 </p>
 <p>I am a Penetration tester, I'm a back-end developer, I also like to create automation scripts with Python.</p>
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
