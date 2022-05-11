@@ -9,7 +9,6 @@
   <li>❤️ I love Hacknig(testing) websites and Programming in PHP and Python.</li>
   <li>🌱 I’m currently learning Web & network security, Laravel, Python, and JS.</li>
   <li>💼 I'm a  Freelancer Penetration tester.</li>
-  #<li>🧐 Portfolio Website, https://mrbluebird2.github.io</li>#
 </ul>
 
 #### A little more about me
