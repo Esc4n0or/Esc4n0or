@@ -51,12 +51,6 @@ const badri = {
       </a>
       <br>PHP
     </td>
-    <td align="center" width="96">
-      <a>
-        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/c.svg" width="40"/>
-      </a>
-      <br>C
-    </td>
   </tr>
 </table>
 
@@ -66,27 +60,9 @@ const badri = {
   <tr>
     <td align="center" width="96">
       <a>
-        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/react.svg" width="40"/>
+        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/laravel.svg" width="40"/>
       </a>
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <a>
-        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/nodejs.svg" width="40"/>
-      </a>
-      <br>NodeJS
-    </td>
-    <td align="center" width="96">
-      <a>
-        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/electron.svg" width="40"/>
-      </a>
-      <br>Electron
-    </td>
-    <td align="center" width="96">
-      <a>
-        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/bootstrap.svg" width="40"/>
-      </a>
-      <br>Bootstrap
+      <br>Laravel
     </td>
   </tr>
 </table>
@@ -106,19 +82,7 @@ const badri = {
         <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/css.svg" width="40"/>
       </a>
       <br>CSS
-    </td>
-    <td align="center" width="96">
-      <a>
-        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/sass.svg" width="40"/>
-      </a>
-      <br>SASS
-    </td>
-    <td align="center" width="96">
-      <a>
-        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/markdown.svg" width="40"/>
-      </a>
-      <br>Markdown
-    </td>
+  </td>	
   </tr>
 </table>
 <h2> Github Stats (Expand to View) <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> </h2>
