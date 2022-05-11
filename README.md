@@ -29,28 +29,98 @@ const badri = {
 }
 ```
 
-# Languages & Tools 👨‍💻 🛠:
-</br>
+**Programming Languages**
 
-<p align="center">
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a>
+        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/js.svg" width="40"/>
+      </a>
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <a>
+        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/python.svg" width="40"/>
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <a>
+        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/php.svg" width="40"/>
+      </a>
+      <br>PHP
+    </td>
+    <td align="center" width="96">
+      <a>
+        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/c.svg" width="40"/>
+      </a>
+      <br>C
+    </td>
+  </tr>
+</table>
 
-<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/python.png" alt="python" width="120" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/php.png" alt="php"  width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/mysql.png" alt="mysql" width="90" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/bash.png" alt="bash" width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/dataanalysis.png" alt="dataanalysis" width="180" hight="50">
-</br>
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/google_cloud_platform.png" alt="google_cloud_platform" width="270" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="240" hight="50">
-</br>
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/pc.png" alt="pc" width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/edge.png" alt="edge" width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/playstation@3x.png" alt="playstation" width="150" hight="50">
-</p>
-</br>
-</br>
+**Frameworks & Libraries**
 
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a>
+        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/react.svg" width="40"/>
+      </a>
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <a>
+        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/nodejs.svg" width="40"/>
+      </a>
+      <br>NodeJS
+    </td>
+    <td align="center" width="96">
+      <a>
+        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/electron.svg" width="40"/>
+      </a>
+      <br>Electron
+    </td>
+    <td align="center" width="96">
+      <a>
+        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/bootstrap.svg" width="40"/>
+      </a>
+      <br>Bootstrap
+    </td>
+  </tr>
+</table>
+
+**Markup & Stylesheet**
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a>
+        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/html.svg" width="40"/>
+      </a>
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+      <a>
+        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/css.svg" width="40"/>
+      </a>
+      <br>CSS
+    </td>
+    <td align="center" width="96">
+      <a>
+        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/sass.svg" width="40"/>
+      </a>
+      <br>SASS
+    </td>
+    <td align="center" width="96">
+      <a>
+        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/markdown.svg" width="40"/>
+      </a>
+      <br>Markdown
+    </td>
+  </tr>
+</table>
 <h2> Github Stats (Expand to View) <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> </h2>
 
 <details> 
