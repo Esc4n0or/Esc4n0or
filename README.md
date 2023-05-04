@@ -7,7 +7,7 @@
 </p>
 
 <p>I am a Penetration tester, back-end developer, I also like to create automation scripts with Python.</p>
-<img align="right" src="https://github.com/Esc4n0or/Esc4n0or/blob/main/code.gif" style="width:50%">
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
 <ul>
   <li>👋 Hi, I’m @Esc4n0or</li>
   <li>❤️ I love Hacknig(testing) websites and Programming in PHP and Python.</li>
