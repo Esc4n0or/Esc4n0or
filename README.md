@@ -91,7 +91,7 @@ const badri = {
   </td>	
   </tr>
 </table>
-<h2> Github Stats (Expand to View) <img src = "https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width = 35px> </h2>
+<h2> Github Stats (Expand to View) <img src = "https://github.com/Esc4n0or/Esc4n0or/blob/main/code.gif" width = 35px> </h2>
 
 <details> 
   <summary><b>💻 GitHub Profile Stats</b></summary>
