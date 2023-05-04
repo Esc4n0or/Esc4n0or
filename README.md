@@ -35,21 +35,33 @@ const badri = {
   <tr>
     <td align="center" width="96">
       <a>
-        <img src="javascript-svgrepo-com.svg" width="40"/>
+        <img src="svgs/javascript-svgrepo-com.svg" width="40"/>
       </a>
       <br>JavaScript
     </td>
     <td align="center" width="96">
       <a>
-        <img src="python-svgrepo-com.svg" width="40"/>
+        <img src="svgs/python-svgrepo-com.svg" width="40"/>
       </a>
       <br>Python
     </td>
     <td align="center" width="96">
       <a>
-        <img src="php-svgrepo-com.svg" width="40"/>
+        <img src="svgs/php-svgrepo-com.svg" width="40"/>
       </a>
       <br>PHP
+    </td>
+	  <td align="center" width="96">
+      <a>
+        <img src="svgs/mysql-logo-svgrepo-com.svg" width="40"/>
+      </a>
+      <br>MySQL
+    </td>
+	  <td align="center" width="96">
+      <a>
+        <img src="svgs/powershell-svgrepo-com.svg" width="40"/>
+      </a>
+      <br>PowerShell
     </td>
     <td align="center" width="96">
       <a>
