@@ -7,7 +7,7 @@
 </p>
 
 <p>I am a Penetration tester, back-end developer, I also like to create automation scripts with Python.</p>
-<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
+<img align="right" src="https://github.com/Esc4n0or/Esc4n0or/blob/main/code.gif">
 <ul>
   <li>👋 Hi, I’m @Esc4n0or</li>
   <li>❤️ I love Hacknig(testing) websites and Programming in PHP and Python.</li>
@@ -91,7 +91,7 @@ const badri = {
   </td>	
   </tr>
 </table>
-<h2> Github Stats (Expand to View) <img src = "https://github.com/Esc4n0or/Esc4n0or/blob/main/code.gif" width = 35px> </h2>
+<h2> Github Stats (Expand to View) <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> </h2>
 
 <details> 
   <summary><b>💻 GitHub Profile Stats</b></summary>
