@@ -41,13 +41,13 @@ const badri = {
     </td>
     <td align="center" width="96">
       <a>
-        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/python.svg" width="40"/>
+        <img src="python-svgrepo-com.svg" width="40"/>
       </a>
       <br>Python
     </td>
     <td align="center" width="96">
       <a>
-        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/php.svg" width="40"/>
+        <img src="php-svgrepo-com.svg" width="40"/>
       </a>
       <br>PHP
     </td>
