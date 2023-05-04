@@ -11,7 +11,7 @@
 <ul>
   <li>👋 Hi, I’m @Esc4n0or</li>
   <li>❤️ I love Hacknig(testing) websites and Programming in PHP and Python.</li>
-  <li>🌱 I’m currently learning Web & network security, Laravel, Python, and JS.</li>
+  <li>🌱 I’m currently learning Mobile/network security, and Laravel, and most of the time doing Bug hunting .</li>
   <li>💼 I'm a  Freelancer Penetration tester.</li>
 </ul>
 
