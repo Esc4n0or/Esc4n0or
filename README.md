@@ -35,7 +35,7 @@ const badri = {
   <tr>
     <td align="center" width="96">
       <a>
-        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/js.svg" width="40"/>
+        <img src="javascript-svgrepo-com.svg" width="40"/>
       </a>
       <br>JavaScript
     </td>
