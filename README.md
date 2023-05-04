@@ -114,6 +114,5 @@ const badri = {
 <p align="center">
 	<a href="https://www.linkedin.com/in/taha-abdelwahab-18b4621bb/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
 	<a href="https://www.facebook.com/Esc4n00r/"><img alt="facebook" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/facebook-new.png"/></a>
-	<a href="https://instagram.com/taha_abdelwahab8/"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
-	<a href="https://twitter.com/Esc4n0r_8"><img alt="twitter" width="10%" style="padding:5px" src="https://icons8.com/icon/64156/twitter-squared"/></a>
+	<a href="https://twitter.com/Esc4n0r_8"><img alt="twitter" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
 </p>
